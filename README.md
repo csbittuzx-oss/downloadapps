@@ -21,7 +21,7 @@ Download the latest production release of **TeleVault** (Unlimited Telegram Clou
 | :--- | :--- |
 | **App Name** | **TeleVault** |
 | **Latest Version** | **v1.0.0 (Build Release)** |
-| **APK Size** | **17.76 MB** |
+| **APK Size** | **13.05 MB** |
 | **Architecture** | **arm64-v8a** (Android 7.0+ to Android 15 / API 36) |
 | **Signature** | **APK Signature Scheme v2 (Signed & Verified)** |
 | **Security** | R8 Minification, Anti-tamper, Backup Disabled |
